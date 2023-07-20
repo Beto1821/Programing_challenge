@@ -47,8 +47,11 @@ ORDER BY Continent DESC;
     ```
 ## Results:
 Total countries: 239
+
 Countries in the specified continents: 102
+
 Valid values (not null) for 'LifeExpectancy' column: 101
+
 
 The resulting table displays the average life expectancy for each requested continent:
 | LifeProm |     Region    |
